@@ -1,2 +1,2 @@
 # Full-Stack-Todo-Web-App
-OWC-Todo
+This repository contains all the files included in Full Stack ToDo List application.
